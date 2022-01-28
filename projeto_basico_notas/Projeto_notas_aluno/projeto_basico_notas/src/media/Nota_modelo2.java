@@ -34,7 +34,7 @@ public class Nota_modelo2 {
 			System.out.println("O aluno(a) "+ p.getNome() +" obteve a média "+ media + " e foi reprovado.");
 		}
 		
-		entrada.close();
+	
 		
 	}
 }
