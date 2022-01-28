@@ -1,2 +1,1 @@
-# Projeto_notas_aluno
- 
+# Projeto de notas do aluno
