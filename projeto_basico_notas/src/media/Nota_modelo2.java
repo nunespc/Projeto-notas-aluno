@@ -27,11 +27,11 @@ public class Nota_modelo2 {
 		double media = (nota1 + nota2 + nota3 + nota4) / 4;
 		
 		if(media >= 7.0) {
-			System.out.println("O aluno(a) "+ p.getNome() +" obteve a média "+ media + " e foi aprovado.");
+			System.out.println("O(A) aluno(a) "+ p.getNome() +" obteve a mÃ©dia "+ media + " e foi aprovado.");
 		}else if (media <= 6.9 && media >= 5 ){
-			System.out.println("O aluno(a) "+ p.getNome() +" obteve a média "+ media + " e esta em reculperação.");
+			System.out.println("O(A) aluno(a) "+ p.getNome() +" obteve a mÃ©dia "+ media + " e esta em reculperaÃ§Ã£o.");
 		}else {
-			System.out.println("O aluno(a) "+ p.getNome() +" obteve a média "+ media + " e foi reprovado.");
+			System.out.println("O(A) aluno(a) "+ p.getNome() +" obteve a mÃ©dia "+ media + " e foi reprovado.");
 		}
 		
 		entrada.close();
