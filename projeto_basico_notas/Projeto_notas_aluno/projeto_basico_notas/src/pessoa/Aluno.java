@@ -1,7 +1,7 @@
 package pessoa;
 
 public class Aluno {
-	public String nome = "Laura";
+	public String nome;;
 
 	public Aluno(String nome) {
 		super();
