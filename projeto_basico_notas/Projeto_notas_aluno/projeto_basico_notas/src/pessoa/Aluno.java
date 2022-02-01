@@ -1,7 +1,7 @@
 package pessoa;
 
 public class Aluno {
-	public String nome;;
+	public String nome;
 
 	public Aluno(String nome) {
 		super();
