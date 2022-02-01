@@ -10,6 +10,7 @@ public class Notas_medelo1 {
 		double media;
 		
 		Aluno a = new Aluno("");
+		a.nome = "Laura";
 		
 		if(media >= 7.0) {
 			System.out.println("O(A)" +a.nome+ " foi aprovado(a)");
